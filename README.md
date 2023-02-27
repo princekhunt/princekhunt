@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Prince Khunt</h1>
 
 
-It's [Prince Khunt](https://princekhunt.com), passionate about doing magic by code. I'm 2nd year bachlor in Information technology. I'm a self taught backend web developer and build web application on Django framework. My domain of interest lies from managing a project to innovate new security algorithms which make applications better.
+It's [Prince Khunt](https://princekhunt.com), passionate about doing magic by code. I'm 2nd year bachelor in Information technology. I'm a self taught backend web developer and build web application on Django framework. My domain of interest lies from managing a project to innovate new security algorithms which make applications better.
 
 - 🔭 I’m currently voluntarily working at NGO **Virtually Testing Foundation**
 
